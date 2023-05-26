@@ -1,0 +1,17 @@
+ion-content {
+    --background: #ffffff;
+    }
+
+    .header {
+      text-align: center;
+        padding: 20px;
+        }
+
+        .main {
+          display: flex;
+            justify-content: center;
+              align-items: center;
+                height: 100vh;
+                }
+             
+}
